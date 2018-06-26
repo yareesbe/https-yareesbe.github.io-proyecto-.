@@ -1,0 +1,50 @@
+*{
+     margin:0px;
+	 padding:0px;
+}
+body {
+	font-family:oswald, helvetica, arial, sans-serif;
+	background: url(http://www.rxwallpaper.site/wp-content/uploads/cherry-blossoms-japan-e29da4-4k-hd-desktop-wallpaper-for-4k-ultra-hd.jpg);
+	background-size:cover;
+	background-attachment: fixed;
+	background-position:0 0px;
+}
+div#menu{
+     width:200px;
+	 margin-top:50px;
+	 background-color:#;
+}
+
+div#menu ul{
+     list-style:none;
+}
+
+div#menu ul li{
+     margin-top:15px;
+	 font-family:tahoma;
+	 font-size:18px;
+	 text-decoration:none;
+	 list-style:none;
+	 background-color:#ffc0cb;
+	 width:160px;
+	 padding-top:10px;
+	 padding-bottom:10px;
+	 border-radius:0px 20px 20px 0px;
+	 padding-left:20px;
+	 box-shadow:5px 0px 10px #ffc0cb;
+	 -webkit-transition:padding-left 0.6s;
+	 color:#da70d6;
+}
+
+div#menu ul li:hover{
+     padding-left:50px;
+}
+
+
+.logo {
+	color:rgb(165, 87, 0);
+	float: relative;
+	font-size:30px;
+	line-height:80px;
+	font-family:oswald, helvetica, arial, sans-serif;
+}
